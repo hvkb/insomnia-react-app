@@ -1,9 +1,9 @@
-# insomnia
+# insomnia - a sleep inducer app
 An app that will help you relax and sleep better.
 #### Link: [https://hvkb.github.io/insomnia-react-app/](https://hvkb.github.io/insomnia-react-app/)
 
 ## How it works
-Once the user clicks on their choice of music/sounds, the lights will gradually start to dim and the volume will also start to go down. <br>
+Once the user clicks on their choice of music/sounds, the lights will gradually start to dim and the volume will start to go down. <br>
 In addition to this, the user can also set the volume and the brightness level of the screen. In the case of the user setting the volume, the volume will no longer gradually reduce but instead will remain constant. 
 
 ## Screenshots
