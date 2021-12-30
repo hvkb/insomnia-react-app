@@ -1,0 +1,20 @@
+.outerDiv {
+  animation-name: reduce-brightness;
+  animation-duration: 300s;
+  background-repeat: no-repeat;
+  animation-fill-mode: forwards;
+}
+
+@keyframes reduce-brightness {
+  from {
+    filter: brightness(100%);
+  }
+  to {
+    filter: brightness(20%);
+  }
+}
+
+.lightsOff {
+  filter: brightness(20%);
+}
+
