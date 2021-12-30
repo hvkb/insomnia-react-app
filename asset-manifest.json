@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/insomnia-react-app/static/css/main.fc21fc9f.chunk.css",
+    "main.js": "/insomnia-react-app/static/js/main.141ec3a9.chunk.js",
+    "main.js.map": "/insomnia-react-app/static/js/main.141ec3a9.chunk.js.map",
+    "runtime-main.js": "/insomnia-react-app/static/js/runtime-main.385b07ba.js",
+    "runtime-main.js.map": "/insomnia-react-app/static/js/runtime-main.385b07ba.js.map",
+    "static/js/2.bbe672a3.chunk.js": "/insomnia-react-app/static/js/2.bbe672a3.chunk.js",
+    "static/js/2.bbe672a3.chunk.js.map": "/insomnia-react-app/static/js/2.bbe672a3.chunk.js.map",
+    "index.html": "/insomnia-react-app/index.html",
+    "static/css/main.fc21fc9f.chunk.css.map": "/insomnia-react-app/static/css/main.fc21fc9f.chunk.css.map",
+    "static/js/2.bbe672a3.chunk.js.LICENSE.txt": "/insomnia-react-app/static/js/2.bbe672a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.385b07ba.js",
+    "static/js/2.bbe672a3.chunk.js",
+    "static/css/main.fc21fc9f.chunk.css",
+    "static/js/main.141ec3a9.chunk.js"
+  ]
+}
