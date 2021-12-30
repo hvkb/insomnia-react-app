@@ -1,6 +1,6 @@
 # insomnia
 An app that will help you relax and sleep better.
-#### Link: 
+#### Link: [https://hvkb.github.io/insomnia-react-app/](https://hvkb.github.io/insomnia-react-app/)
 
 ## How it works
 Once the user clicks on their choice of music/sounds, the lights will gradually start to dim and the volume will also start to go down. <br>
