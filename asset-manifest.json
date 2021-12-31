@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/insomnia-react-app/static/css/main.fc21fc9f.chunk.css",
-    "main.js": "/insomnia-react-app/static/js/main.141ec3a9.chunk.js",
-    "main.js.map": "/insomnia-react-app/static/js/main.141ec3a9.chunk.js.map",
+    "main.js": "/insomnia-react-app/static/js/main.9c2e778e.chunk.js",
+    "main.js.map": "/insomnia-react-app/static/js/main.9c2e778e.chunk.js.map",
     "runtime-main.js": "/insomnia-react-app/static/js/runtime-main.385b07ba.js",
     "runtime-main.js.map": "/insomnia-react-app/static/js/runtime-main.385b07ba.js.map",
     "static/js/2.bbe672a3.chunk.js": "/insomnia-react-app/static/js/2.bbe672a3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.385b07ba.js",
     "static/js/2.bbe672a3.chunk.js",
     "static/css/main.fc21fc9f.chunk.css",
-    "static/js/main.141ec3a9.chunk.js"
+    "static/js/main.9c2e778e.chunk.js"
   ]
 }
