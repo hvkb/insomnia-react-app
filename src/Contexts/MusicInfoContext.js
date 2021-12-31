@@ -98,8 +98,8 @@ export const MusicInfoProvider = (props) => {
     },
     {
       id: "13",
-      image: "/dinosaur.png",
-      imageCredit: "/dinosaur.png",
+      image: "https://c.tenor.com/04l8AnfK5ckAAAAC/charizard-pokemon-charizard.gif",
+      imageCredit: "https://tenor.com/view/charizard-pokemon-charizard-flamethrower-angry-mad-gif-23766460",
       title: "dinosaur",
       youtube:
         "https://youtu.be/1vBsBa9KS2c",
