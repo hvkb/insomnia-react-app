@@ -15,5 +15,5 @@ In addition to this, the user can also set the volume and the brightness level o
 
 
 ## Acknowledgements
-1. Mahil Jasani's blog - idea
+1. [Mahil Jasani's blog](https://www.codementor.io/@mahil/10-web-app-ideas-you-can-build-as-side-projects-1bimcrdepx) - idea
 2. [lofi.cafe](https://www.lofi.cafe/) - reference
